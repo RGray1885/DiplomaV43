@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/SubSystems/Interactables/Container/BP_BasicContainer.uasset",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/Maps/EmtyLevel.umap",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/SubSystems/Inventory/SystemFiles/AC_Equipmentv2.uasset",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/Animations/AnimBlueprints/ABP_Nordstrom.uasset",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/SubSystems/Inventory/SystemFiles/AC_ItemInfoComponent.uasset",
+				"C:/Users/Alexander K/Documents/Unreal Projects/DiplomaV43/Content/Base/WBP_Player_UI.uasset"
+			]
+		}
+	]
+}
